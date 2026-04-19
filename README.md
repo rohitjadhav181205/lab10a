@@ -1,0 +1,1 @@
+lab10a o/p  link:https://github.com/rohitjadhav181205/lab10a/commit/b5ff996f3e705ecd2c11b6bd7eca23018f9ad7c2 & https://github.com/rohitjadhav181205/lab10a/commit/b5ff996f3e705ecd2c11b6bd7eca23018f9ad7c2
